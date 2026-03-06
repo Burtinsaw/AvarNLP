@@ -1,8 +1,10 @@
-# NLnet / NGI Zero Commons Fund — AvarNLP Basvuru Taslagi
+# NLnet / NGI Zero Commons Fund — AvarNLP Basvuru
 
-> **Son basvuru: 1 Nisan 2026, 12:00 CEST (ogle)**
-> **Basvuru linki: https://nlnet.nl/propose/**
-> **Miktar: 5,000 - 50,000 EUR**
+> **DURUM: GONDERILDI — 6 Mart 2026**
+> **Basvuru kodu: 2026-04-0dd**
+> **Fon: NGI Zero Commons Fund**
+> **Talep edilen miktar: 20,000 EUR**
+> **Beklenen yanit suresi: 2-3 ay (Mayis-Haziran 2026)**
 
 ---
 
@@ -306,17 +308,17 @@ edited, and validated by the applicant.
 
 ## Basvuru Oncesi Kontrol Listesi
 
-- [x] GitHub repo'yu duzenle (README, LICENSE ekle) -- TAMAM
-- [x] Danismanlari README'ye ekle -- TAMAM
-- [x] Kisisel bilgileri taslaga ekle -- TAMAM
+- [x] GitHub repo'yu duzenle (README, LICENSE ekle)
+- [x] Danismanlari README'ye ekle
+- [x] Kisisel bilgileri taslaga ekle
+- [x] Abstract'i son kez gozden gecir
+- [x] Butceyi kontrol et (20,000 EUR)
+- [x] Formu doldur: https://nlnet.nl/propose/
+- [x] **GONDERILDI — 6 Mart 2026, Kod: 2026-04-0dd**
 - [ ] HuggingFace'te model repo olustur: `burtinsaw/avarnlp-nllb-600m`
 - [ ] HuggingFace'te dataset repo olustur: `burtinsaw/avar-turkish-parallel`
-- [ ] Abstract'i son kez gozden gecir ve kendi cumlelerinle duzenle
-- [ ] Butceyi kontrol et (saatlik ucret makul mu?)
 - [ ] MagaruLaw.com'a AvarNLP hakkinda bir sayfa ekle (opsiyonel)
-- [ ] Formu doldur: https://nlnet.nl/propose/
-- [ ] "Receive copy of application" tikla
-- [ ] Gonder!
+- [ ] Yanit bekleniyor (Mayis-Haziran 2026)
 
 ---
 
