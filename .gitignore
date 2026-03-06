@@ -28,5 +28,8 @@ wandb/
 .vscode/
 .idea/
 
+# Private documents (not for public repo)
+private-docs/
+
 # OS
 .DS_Store
