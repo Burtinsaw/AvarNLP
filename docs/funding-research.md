@@ -67,6 +67,7 @@
 | Sure | ~30 gun (uzatilabilir) |
 | Akademik gereklilik | YOK — herkes basvurabilir |
 | Kabul sansi | %40-60 (tahmini) |
+| **DURUM** | **GONDERILDI — 6 Mart 2026** |
 
 ### Basvuru Sureci
 1. Basit online form (arastirma onerisi denemesi yok)
