@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Data (large files)
+data/raw/*.json
+data/raw/*.jsonl
+data/processed/*.jsonl
+data/evolved/*.jsonl
+!data/**/.gitkeep
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Logs
+wandb/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

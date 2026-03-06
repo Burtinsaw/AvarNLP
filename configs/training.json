@@ -1,0 +1,11 @@
+{
+  "model_name": "facebook/nllb-200-distilled-600M",
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "learning_rate": 5e-4,
+  "batch_size": 16,
+  "epochs": 5,
+  "warmup_ratio": 0.1,
+  "max_length": 128,
+  "output_dir": "checkpoints/nllb-avar"
+}

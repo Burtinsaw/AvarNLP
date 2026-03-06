@@ -1,0 +1,7 @@
+{
+  "generations": 20,
+  "population_size": 10,
+  "survival_count": 4,
+  "epochs_per_eval": 1,
+  "mutation_rate": 0.3
+}

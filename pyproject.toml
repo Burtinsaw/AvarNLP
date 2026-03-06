@@ -1,0 +1,31 @@
+[project]
+name = "avarnlp"
+version = "0.1.0"
+description = "Self-evolving Avar language translation AI"
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.1.0",
+    "transformers>=4.36.0",
+    "datasets>=2.16.0",
+    "peft>=0.7.0",
+    "deap>=1.4.1",
+    "sentencepiece>=0.1.99",
+    "sacrebleu>=2.4.0",
+    "sentence-transformers>=2.3.0",
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.31.0",
+    "httpx>=0.26.0",
+    "fastapi>=0.109.0",
+    "uvicorn>=0.27.0",
+    "gradio>=4.14.0",
+    "wandb>=0.16.0",
+    "pandas>=2.1.0",
+    "tqdm>=4.66.0",
+    "pytest>=7.4.0",
+]
+
+[project.optional-dependencies]
+dev = ["ruff", "pytest", "ipykernel"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
