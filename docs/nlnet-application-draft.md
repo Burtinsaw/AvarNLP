@@ -10,12 +10,12 @@
 
 ### 1. Contact Information
 
-| Alan | Doldurulacak |
-|------|-------------|
-| Name | [Senin adin] |
-| Email | [Email adresin] |
-| Phone | [Telefon] |
-| Organisation | Bireysel basvuru (veya varsa organizasyon) |
+| Alan | Deger |
+|------|-------|
+| Name | Arif AKGUN |
+| Email | admin@magarulaw.com |
+| Phone | +905444343210 |
+| Organisation | Individual (MagaruLaw.com founder) |
 | Country | Turkey |
 
 > **Not:** Bireysel basvuru kabul ediliyor. Organizasyon sart degil.
@@ -105,14 +105,26 @@ and designed for community adoption.
 ### 5. Have you been involved with projects or organizations relevant to this project before?
 
 ```
-I am the developer of MagaruLaw.com, an Avar cultural platform that
-publishes content in Avar, Turkish, Russian, and English. Through this
-work, I have direct experience with the challenges of digitizing Avar
-language content and understand the community's needs firsthand.
+I am Arif Akgun, the founder and developer of MagaruLaw.com — an Avar
+cultural platform that publishes content in Avar, Turkish, Russian, and
+English. Through this work, I have direct experience with the challenges
+of digitizing Avar language content and understand the community's needs
+firsthand.
 
-I am a native speaker of [belirt: Avar / Turkish / ilgili dil] with
-deep knowledge of Avar linguistics, morphology, and the cultural context
-necessary to evaluate translation quality.
+I am connected to the Avar-speaking community and have deep familiarity
+with Avar linguistics, morphology, and the cultural context necessary to
+evaluate translation quality.
+
+The project has the advisory support of:
+- Prof. Akhmed M. Murtazaliev (Doctor of Philological Sciences, Chief
+  Research Fellow at the Institute of Language, Literature and Art named
+  after Gamzat Tsadasa, Dagestan Scientific Center of the Russian Academy
+  of Sciences) — specialist in Avar literary heritage and the Dagestani
+  diaspora in Turkey.
+- Cafer Barlas (Researcher, Writer & Lexicographer, Turkey) — author of
+  the 640-page Turkish-Avar-Russian Dictionary, one of the most
+  comprehensive Avar lexicographic works. Ethnic Avar from Dagestan,
+  founding member of the Shamil Foundation.
 
 This project grows directly from practical needs encountered while
 building MagaruLaw — the absence of any digital language tools for Avar
@@ -252,19 +264,25 @@ OUR DIFFERENTIATION:
 RELEVANT ACTORS:
 - Avar diaspora communities (Turkey, Europe): Primary users and
   evaluators. Engaged through MagaruLaw.com platform (existing audience).
+- Project advisors:
+  * Prof. Akhmed M. Murtazaliev (Dagestan Academy of Sciences, IYALI) —
+    Avar literary heritage, diaspora research, linguistic validation.
+  * Cafer Barlas (Turkey) — Avar lexicography, author of Turkish-Avar-
+    Russian Dictionary (640 pages), community bridge to Avar diaspora.
 - Hugging Face: Model and dataset hosting, community visibility.
   AvarNLP will be published as public model + dataset repos.
 - Masakhane community: Methodological inspiration; potential collaboration
   on cross-applying evolutionary approach to other language families.
 - UNESCO/Endangered Languages Project: Alignment with preservation goals.
-- Dagestan State University: Potential academic collaboration for
-  linguistic validation.
+- Institute of Language, Literature and Art (IYALI), Dagestan: Academic
+  collaboration for linguistic validation through Prof. Murtazaliev.
 
 ENGAGEMENT STRATEGY:
 - Open-source everything from day one (GitHub + HuggingFace)
 - Publish research findings as technical blog + potential workshop paper
 - Release framework as reusable toolkit for other endangered languages
 - Community testing through MagaruLaw.com integration
+- Leverage advisor network for quality validation and diaspora outreach
 - Engage with HuggingFace's language diversity initiatives
 ```
 
@@ -288,12 +306,14 @@ edited, and validated by the applicant.
 
 ## Basvuru Oncesi Kontrol Listesi
 
-- [ ] GitHub repo'yu duzenle (README, LICENSE ekle)
+- [x] GitHub repo'yu duzenle (README, LICENSE ekle) -- TAMAM
+- [x] Danismanlari README'ye ekle -- TAMAM
+- [x] Kisisel bilgileri taslaga ekle -- TAMAM
 - [ ] HuggingFace'te model repo olustur: `burtinsaw/avarnlp-nllb-600m`
 - [ ] HuggingFace'te dataset repo olustur: `burtinsaw/avar-turkish-parallel`
-- [ ] Abstract'i son kez gozden gecir
+- [ ] Abstract'i son kez gozden gecir ve kendi cumlelerinle duzenle
 - [ ] Butceyi kontrol et (saatlik ucret makul mu?)
-- [ ] MagaruLaw.com'a AvarNLP hakkinda bir sayfa ekle
+- [ ] MagaruLaw.com'a AvarNLP hakkinda bir sayfa ekle (opsiyonel)
 - [ ] Formu doldur: https://nlnet.nl/propose/
 - [ ] "Receive copy of application" tikla
 - [ ] Gonder!
