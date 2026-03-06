@@ -167,6 +167,43 @@ AvarNLP/
 - [ ] Support for Avar-Russian translation direction
 - [ ] Community testing via MagaruLaw.com
 
+## Advisors
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Akhmed M. Murtazaliev</strong><br>
+      <em>Doctor of Philological Sciences</em><br><br>
+      Chief Research Fellow at the Institute of Language, Literature and Art named after Gamzat Tsadasa (Dagestan Scientific Center, Russian Academy of Sciences). Author of the first comprehensive study on the literature of the Dagestani diaspora in Turkey. Specialist in Avar literary heritage, Turkish borrowings in Avar poetry, and 18th-19th century Avar spiritual literature.<br><br>
+      <strong>Key works:</strong><br>
+      <em>"Literature of the Dagestani Diaspora in Turkey: Genesis and Artistic Originality"</em> (Doctoral dissertation, 2007)<br>
+      <em>"Eastern (Turkish) Borrowings in the Poetry of Mahmud from Kakhab-Roso"</em> (2018)<br>
+      <em>"Writers of the Dagestani Foreign Lands: Biobibliographic Reference Book"</em> (2006)
+    </td>
+    <td align="center" width="50%">
+      <strong>Cafer Barlas</strong><br>
+      <em>Researcher, Writer & Lexicographer</em><br><br>
+      Dagestan culture, literature and history researcher based in Turkey. Author of the 640-page <em>Turkish-Avar-Russian / Avar-Turkish-Russian Dictionary</em> — one of the most comprehensive Avar lexicographic works. Ethnic Avar from Dagestan, founding member of the Shamil Foundation (Istanbul). One of the few Turkey-based researchers who works directly with Avar-language primary sources.<br><br>
+      <strong>Key works:</strong><br>
+      <em>"Turkce-Avarca-Rusca / Avarca-Turkce-Rusca Sozluk"</em> (640 pages, 2002)<br>
+      <em>"Caucasian Freedom Struggle: Past and Present"</em> (485 pages, 2014)<br>
+      <em>"The Targeted Poet: Muhammed Ali-Adallo"</em> (Avar poet biography)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>Makhachkala, Dagestan</sub><br>
+      <sub>Avar literary studies & diaspora research</sub>
+    </td>
+    <td align="center">
+      <sub>Yalova, Turkey</sub><br>
+      <sub>Avar lexicography & Caucasian history</sub>
+    </td>
+  </tr>
+</table>
+
+> The combination of Prof. Murtazaliev's academic expertise in Avar literature from Dagestan and Cafer Barlas's lexicographic work and deep connection to the Avar diaspora in Turkey provides AvarNLP with authoritative guidance across both sides of the Avar-speaking world.
+
 ## About the Avar Language
 
 | | |
