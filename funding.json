@@ -1,0 +1,83 @@
+{
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.1.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Arif Akgun",
+    "email": "admin@magarulaw.com",
+    "description": "Software developer and native Avar speaker building the first machine translation system for the Avar language. One of the few people who can both write Avar fluently and build NLP technology. Creator of MagaruLaw.com, an Avar cultural platform.",
+    "webpageUrl": {
+      "url": "https://magarulaw.com"
+    }
+  },
+  "projects": [
+    {
+      "guid": "avarnlp",
+      "name": "AvarNLP",
+      "description": "The world's first machine translation system for the Avar language (800,000 speakers, UNESCO endangered). Uses evolutionary algorithms to generate training data from a small seed corpus, then fine-tunes NLLB-600M with LoRA. Open-source framework replicable for any endangered language.",
+      "webpageUrl": {
+        "url": "https://github.com/Burtinsaw/AvarNLP"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/Burtinsaw/AvarNLP"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "nlp",
+        "machine-translation",
+        "endangered-languages",
+        "avar-language",
+        "low-resource-nlp",
+        "genetic-algorithms",
+        "language-preservation",
+        "open-source"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/Burtinsaw",
+        "description": "GitHub Sponsors"
+      },
+      {
+        "guid": "bank-transfer",
+        "type": "bank",
+        "description": "Direct bank transfer for grants and institutional funding. Contact admin@magarulaw.com for details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "seed-funding",
+        "status": "active",
+        "name": "Seed Funding for AvarNLP Development",
+        "description": "Fund full-time development of AvarNLP: data collection, evolutionary corpus generation, model training, and free public deployment on Hugging Face.",
+        "amount": 20000,
+        "currency": "EUR",
+        "frequency": "one-time",
+        "channels": [
+          "github-sponsors",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "monthly-support",
+        "status": "active",
+        "name": "Monthly Development Support",
+        "description": "Ongoing support for AvarNLP maintenance, model improvements, community building, and expansion to other Caucasian languages.",
+        "amount": 0,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": [
+          "github-sponsors"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
